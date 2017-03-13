@@ -1,3 +1,4 @@
+__author__ = 'Hector Mauricio Castaneda Cortes'
 from __future__ import print_function
 
 import scipy.constants as const
